@@ -1,0 +1,41 @@
+{
+    "name": "saksh-ai-prompt",
+    "version": "2.0.0",
+    "description": "A Node.js package to send user prompts to various AI models and return the output.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "susheelhbti",
+    "license": "MIT",
+    "dependencies": {
+        "@google/generative-ai": "^1.0.0",
+        "openai": "^3.0.0",
+        "cohere-ai": "^1.0.0",
+        "anthropic": "^1.0.0",
+        "meta-ai": "^1.0.0",
+        "mistral-ai": "^1.0.0",
+        "@huggingface/inference": "^1.0.0"
+    },
+    "keywords": [
+        "gemini",
+        "chatgpt",
+        "cohere",
+        "anthropic",
+        "meta",
+        "mistral",
+        "huggingface",
+        "generative AI",
+        "prompt",
+        "AI",
+        "content generation"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sakshstore/saksh-ai-prompt.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sakshstore/saksh-ai-prompt/issues"
+    },
+    "homepage": "https://github.com/sakshstore/saksh-ai-prompt"
+}
